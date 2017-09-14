@@ -1,0 +1,5 @@
+D:\Projects\practiceBackToPast\practiceBackToPast\bin\Debug\practiceBackToPast.exe.config
+D:\Projects\practiceBackToPast\practiceBackToPast\bin\Debug\practiceBackToPast.exe
+D:\Projects\practiceBackToPast\practiceBackToPast\bin\Debug\practiceBackToPast.pdb
+D:\Projects\practiceBackToPast\practiceBackToPast\obj\Debug\practiceBackToPast.exe
+D:\Projects\practiceBackToPast\practiceBackToPast\obj\Debug\practiceBackToPast.pdb

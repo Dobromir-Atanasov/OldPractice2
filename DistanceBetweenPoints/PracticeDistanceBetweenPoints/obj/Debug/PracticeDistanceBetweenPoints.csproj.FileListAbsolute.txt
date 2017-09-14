@@ -1,0 +1,5 @@
+D:\Projects\PracticeDistanceBetweenPoints\PracticeDistanceBetweenPoints\bin\Debug\PracticeDistanceBetweenPoints.exe.config
+D:\Projects\PracticeDistanceBetweenPoints\PracticeDistanceBetweenPoints\bin\Debug\PracticeDistanceBetweenPoints.exe
+D:\Projects\PracticeDistanceBetweenPoints\PracticeDistanceBetweenPoints\bin\Debug\PracticeDistanceBetweenPoints.pdb
+D:\Projects\PracticeDistanceBetweenPoints\PracticeDistanceBetweenPoints\obj\Debug\PracticeDistanceBetweenPoints.exe
+D:\Projects\PracticeDistanceBetweenPoints\PracticeDistanceBetweenPoints\obj\Debug\PracticeDistanceBetweenPoints.pdb

@@ -1,0 +1,6 @@
+D:\Projects\PrintingTriangle\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+D:\Projects\PrintingTriangle\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+D:\Projects\PrintingTriangle\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+D:\Projects\PrintingTriangle\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
+D:\Projects\PrintingTriangle\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+D:\Projects\PrintingTriangle\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

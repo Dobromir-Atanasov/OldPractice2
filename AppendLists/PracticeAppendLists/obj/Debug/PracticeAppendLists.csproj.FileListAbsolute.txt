@@ -1,0 +1,6 @@
+D:\Projects\PracticeAppendLists\PracticeAppendLists\bin\Debug\PracticeAppendLists.exe.config
+D:\Projects\PracticeAppendLists\PracticeAppendLists\bin\Debug\PracticeAppendLists.exe
+D:\Projects\PracticeAppendLists\PracticeAppendLists\bin\Debug\PracticeAppendLists.pdb
+D:\Projects\PracticeAppendLists\PracticeAppendLists\obj\Debug\PracticeAppendLists.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeAppendLists\PracticeAppendLists\obj\Debug\PracticeAppendLists.exe
+D:\Projects\PracticeAppendLists\PracticeAppendLists\obj\Debug\PracticeAppendLists.pdb

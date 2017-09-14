@@ -1,0 +1,9 @@
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\bin\Debug\PracticeCatchMeGame.exe.config
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\bin\Debug\PracticeCatchMeGame.exe
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\bin\Debug\PracticeCatchMeGame.pdb
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\obj\Debug\PracticeCatchMeGame.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\obj\Debug\PracticeCatchMeGame.Form1.resources
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\obj\Debug\PracticeCatchMeGame.Properties.Resources.resources
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\obj\Debug\PracticeCatchMeGame.csproj.GenerateResource.Cache
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\obj\Debug\PracticeCatchMeGame.exe
+D:\Projects\PracticeCatchMeGame\PracticeCatchMeGame\obj\Debug\PracticeCatchMeGame.pdb

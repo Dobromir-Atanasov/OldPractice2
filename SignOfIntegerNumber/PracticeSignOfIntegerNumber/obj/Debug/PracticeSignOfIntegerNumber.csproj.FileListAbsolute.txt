@@ -1,0 +1,5 @@
+D:\Projects\PracticeSignOfIntegerNumber\PracticeSignOfIntegerNumber\bin\Debug\PracticeSignOfIntegerNumber.exe.config
+D:\Projects\PracticeSignOfIntegerNumber\PracticeSignOfIntegerNumber\bin\Debug\PracticeSignOfIntegerNumber.exe
+D:\Projects\PracticeSignOfIntegerNumber\PracticeSignOfIntegerNumber\bin\Debug\PracticeSignOfIntegerNumber.pdb
+D:\Projects\PracticeSignOfIntegerNumber\PracticeSignOfIntegerNumber\obj\Debug\PracticeSignOfIntegerNumber.exe
+D:\Projects\PracticeSignOfIntegerNumber\PracticeSignOfIntegerNumber\obj\Debug\PracticeSignOfIntegerNumber.pdb

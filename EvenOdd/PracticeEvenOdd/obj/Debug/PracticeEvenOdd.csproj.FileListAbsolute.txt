@@ -1,0 +1,6 @@
+D:\Projects\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\PracticeEvenOdd.exe.config
+D:\Projects\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\PracticeEvenOdd.exe
+D:\Projects\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\PracticeEvenOdd.pdb
+D:\Projects\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\PracticeEvenOdd.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\PracticeEvenOdd.exe
+D:\Projects\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\PracticeEvenOdd.pdb

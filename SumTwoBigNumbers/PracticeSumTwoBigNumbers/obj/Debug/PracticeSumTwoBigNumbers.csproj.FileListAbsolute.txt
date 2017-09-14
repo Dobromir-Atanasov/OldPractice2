@@ -1,0 +1,6 @@
+D:\Projects\PracticeSumTwoBigNumbers\PracticeSumTwoBigNumbers\bin\Debug\PracticeSumTwoBigNumbers.exe.config
+D:\Projects\PracticeSumTwoBigNumbers\PracticeSumTwoBigNumbers\bin\Debug\PracticeSumTwoBigNumbers.exe
+D:\Projects\PracticeSumTwoBigNumbers\PracticeSumTwoBigNumbers\bin\Debug\PracticeSumTwoBigNumbers.pdb
+D:\Projects\PracticeSumTwoBigNumbers\PracticeSumTwoBigNumbers\obj\Debug\PracticeSumTwoBigNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeSumTwoBigNumbers\PracticeSumTwoBigNumbers\obj\Debug\PracticeSumTwoBigNumbers.exe
+D:\Projects\PracticeSumTwoBigNumbers\PracticeSumTwoBigNumbers\obj\Debug\PracticeSumTwoBigNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Projects\HungryGarfield\HungryGarfield\bin\Debug\HungryGarfield.exe.config
+D:\Projects\HungryGarfield\HungryGarfield\bin\Debug\HungryGarfield.exe
+D:\Projects\HungryGarfield\HungryGarfield\bin\Debug\HungryGarfield.pdb
+D:\Projects\HungryGarfield\HungryGarfield\obj\Debug\HungryGarfield.csprojResolveAssemblyReference.cache
+D:\Projects\HungryGarfield\HungryGarfield\obj\Debug\HungryGarfield.exe
+D:\Projects\HungryGarfield\HungryGarfield\obj\Debug\HungryGarfield.pdb

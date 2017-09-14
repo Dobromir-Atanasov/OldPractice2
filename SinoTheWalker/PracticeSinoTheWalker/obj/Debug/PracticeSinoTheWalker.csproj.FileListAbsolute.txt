@@ -1,0 +1,6 @@
+D:\Projects\PracticeSinoTheWalker\PracticeSinoTheWalker\bin\Debug\PracticeSinoTheWalker.exe.config
+D:\Projects\PracticeSinoTheWalker\PracticeSinoTheWalker\bin\Debug\PracticeSinoTheWalker.exe
+D:\Projects\PracticeSinoTheWalker\PracticeSinoTheWalker\bin\Debug\PracticeSinoTheWalker.pdb
+D:\Projects\PracticeSinoTheWalker\PracticeSinoTheWalker\obj\Debug\PracticeSinoTheWalker.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeSinoTheWalker\PracticeSinoTheWalker\obj\Debug\PracticeSinoTheWalker.exe
+D:\Projects\PracticeSinoTheWalker\PracticeSinoTheWalker\obj\Debug\PracticeSinoTheWalker.pdb

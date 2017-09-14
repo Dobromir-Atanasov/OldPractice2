@@ -1,0 +1,6 @@
+D:\Projects\PracticeDayOfWeek\PracticeDayOfWeek\bin\Debug\PracticeDayOfWeek.exe.config
+D:\Projects\PracticeDayOfWeek\PracticeDayOfWeek\bin\Debug\PracticeDayOfWeek.exe
+D:\Projects\PracticeDayOfWeek\PracticeDayOfWeek\bin\Debug\PracticeDayOfWeek.pdb
+D:\Projects\PracticeDayOfWeek\PracticeDayOfWeek\obj\Debug\PracticeDayOfWeek.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeDayOfWeek\PracticeDayOfWeek\obj\Debug\PracticeDayOfWeek.exe
+D:\Projects\PracticeDayOfWeek\PracticeDayOfWeek\obj\Debug\PracticeDayOfWeek.pdb

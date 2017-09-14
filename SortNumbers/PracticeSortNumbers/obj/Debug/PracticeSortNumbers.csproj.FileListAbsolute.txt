@@ -1,0 +1,6 @@
+D:\Projects\PracticeSortNumbers\PracticeSortNumbers\bin\Debug\PracticeSortNumbers.exe.config
+D:\Projects\PracticeSortNumbers\PracticeSortNumbers\obj\Debug\PracticeSortNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeSortNumbers\PracticeSortNumbers\bin\Debug\PracticeSortNumbers.exe
+D:\Projects\PracticeSortNumbers\PracticeSortNumbers\bin\Debug\PracticeSortNumbers.pdb
+D:\Projects\PracticeSortNumbers\PracticeSortNumbers\obj\Debug\PracticeSortNumbers.exe
+D:\Projects\PracticeSortNumbers\PracticeSortNumbers\obj\Debug\PracticeSortNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Projects\Choreography\Choreography\bin\Debug\Choreography.exe.config
+D:\Projects\Choreography\Choreography\bin\Debug\Choreography.exe
+D:\Projects\Choreography\Choreography\bin\Debug\Choreography.pdb
+D:\Projects\Choreography\Choreography\obj\Debug\Choreography.csprojResolveAssemblyReference.cache
+D:\Projects\Choreography\Choreography\obj\Debug\Choreography.exe
+D:\Projects\Choreography\Choreography\obj\Debug\Choreography.pdb

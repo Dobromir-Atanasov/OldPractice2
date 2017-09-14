@@ -1,0 +1,6 @@
+D:\Projects\PracticeEnergyLoss\PracticeEnergyLoss\bin\Debug\PracticeEnergyLoss.exe.config
+D:\Projects\PracticeEnergyLoss\PracticeEnergyLoss\obj\Debug\PracticeEnergyLoss.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeEnergyLoss\PracticeEnergyLoss\bin\Debug\PracticeEnergyLoss.exe
+D:\Projects\PracticeEnergyLoss\PracticeEnergyLoss\bin\Debug\PracticeEnergyLoss.pdb
+D:\Projects\PracticeEnergyLoss\PracticeEnergyLoss\obj\Debug\PracticeEnergyLoss.exe
+D:\Projects\PracticeEnergyLoss\PracticeEnergyLoss\obj\Debug\PracticeEnergyLoss.pdb

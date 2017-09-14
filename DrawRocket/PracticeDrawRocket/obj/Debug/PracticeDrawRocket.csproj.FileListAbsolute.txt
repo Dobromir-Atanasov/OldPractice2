@@ -1,0 +1,5 @@
+D:\Projects\PracticeDrawRocket\PracticeDrawRocket\bin\Debug\PracticeDrawRocket.exe.config
+D:\Projects\PracticeDrawRocket\PracticeDrawRocket\bin\Debug\PracticeDrawRocket.exe
+D:\Projects\PracticeDrawRocket\PracticeDrawRocket\bin\Debug\PracticeDrawRocket.pdb
+D:\Projects\PracticeDrawRocket\PracticeDrawRocket\obj\Debug\PracticeDrawRocket.exe
+D:\Projects\PracticeDrawRocket\PracticeDrawRocket\obj\Debug\PracticeDrawRocket.pdb

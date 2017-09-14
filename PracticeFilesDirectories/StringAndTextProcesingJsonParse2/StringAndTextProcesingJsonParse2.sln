@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndTextProcesingJsonParse2", "StringAndTextProcesingJsonParse2\StringAndTextProcesingJsonParse2.csproj", "{44686A98-74E4-4A70-B310-40F1670BAEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44686A98-74E4-4A70-B310-40F1670BAEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44686A98-74E4-4A70-B310-40F1670BAEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44686A98-74E4-4A70-B310-40F1670BAEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44686A98-74E4-4A70-B310-40F1670BAEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

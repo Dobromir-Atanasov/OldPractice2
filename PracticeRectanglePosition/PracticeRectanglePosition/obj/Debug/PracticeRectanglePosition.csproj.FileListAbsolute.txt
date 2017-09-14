@@ -1,0 +1,6 @@
+D:\Projects\PracticeRectanglePosition\PracticeRectanglePosition\bin\Debug\PracticeRectanglePosition.exe.config
+D:\Projects\PracticeRectanglePosition\PracticeRectanglePosition\obj\Debug\PracticeRectanglePosition.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeRectanglePosition\PracticeRectanglePosition\bin\Debug\PracticeRectanglePosition.exe
+D:\Projects\PracticeRectanglePosition\PracticeRectanglePosition\bin\Debug\PracticeRectanglePosition.pdb
+D:\Projects\PracticeRectanglePosition\PracticeRectanglePosition\obj\Debug\PracticeRectanglePosition.exe
+D:\Projects\PracticeRectanglePosition\PracticeRectanglePosition\obj\Debug\PracticeRectanglePosition.pdb

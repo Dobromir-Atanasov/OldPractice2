@@ -1,0 +1,6 @@
+D:\Projects\Crown\Crown\bin\Debug\Crown.exe.config
+D:\Projects\Crown\Crown\bin\Debug\Crown.exe
+D:\Projects\Crown\Crown\bin\Debug\Crown.pdb
+D:\Projects\Crown\Crown\obj\Debug\Crown.csprojResolveAssemblyReference.cache
+D:\Projects\Crown\Crown\obj\Debug\Crown.exe
+D:\Projects\Crown\Crown\obj\Debug\Crown.pdb

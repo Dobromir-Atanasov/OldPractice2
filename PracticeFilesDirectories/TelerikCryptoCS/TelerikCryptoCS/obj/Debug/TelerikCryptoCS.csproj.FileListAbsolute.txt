@@ -1,0 +1,6 @@
+D:\Projects\PracticeFilesDirectories\TelerikCryptoCS\TelerikCryptoCS\bin\Debug\TelerikCryptoCS.exe.config
+D:\Projects\PracticeFilesDirectories\TelerikCryptoCS\TelerikCryptoCS\bin\Debug\TelerikCryptoCS.exe
+D:\Projects\PracticeFilesDirectories\TelerikCryptoCS\TelerikCryptoCS\bin\Debug\TelerikCryptoCS.pdb
+D:\Projects\PracticeFilesDirectories\TelerikCryptoCS\TelerikCryptoCS\obj\Debug\TelerikCryptoCS.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFilesDirectories\TelerikCryptoCS\TelerikCryptoCS\obj\Debug\TelerikCryptoCS.exe
+D:\Projects\PracticeFilesDirectories\TelerikCryptoCS\TelerikCryptoCS\obj\Debug\TelerikCryptoCS.pdb

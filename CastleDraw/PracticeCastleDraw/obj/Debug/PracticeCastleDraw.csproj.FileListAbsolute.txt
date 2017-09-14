@@ -1,0 +1,6 @@
+D:\Projects\PracticeCastleDraw\PracticeCastleDraw\bin\Debug\PracticeCastleDraw.exe.config
+D:\Projects\PracticeCastleDraw\PracticeCastleDraw\bin\Debug\PracticeCastleDraw.exe
+D:\Projects\PracticeCastleDraw\PracticeCastleDraw\bin\Debug\PracticeCastleDraw.pdb
+D:\Projects\PracticeCastleDraw\PracticeCastleDraw\obj\Debug\PracticeCastleDraw.exe
+D:\Projects\PracticeCastleDraw\PracticeCastleDraw\obj\Debug\PracticeCastleDraw.pdb
+D:\Projects\PracticeCastleDraw\PracticeCastleDraw\obj\Debug\PracticeCastleDraw.csprojResolveAssemblyReference.cache

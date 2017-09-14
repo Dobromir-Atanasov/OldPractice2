@@ -1,0 +1,6 @@
+D:\Projects\PracticePokemonEvolution\PracticePokemonEvolution\bin\Debug\PracticePokemonEvolution.exe.config
+D:\Projects\PracticePokemonEvolution\PracticePokemonEvolution\bin\Debug\PracticePokemonEvolution.exe
+D:\Projects\PracticePokemonEvolution\PracticePokemonEvolution\bin\Debug\PracticePokemonEvolution.pdb
+D:\Projects\PracticePokemonEvolution\PracticePokemonEvolution\obj\Debug\PracticePokemonEvolution.csprojResolveAssemblyReference.cache
+D:\Projects\PracticePokemonEvolution\PracticePokemonEvolution\obj\Debug\PracticePokemonEvolution.exe
+D:\Projects\PracticePokemonEvolution\PracticePokemonEvolution\obj\Debug\PracticePokemonEvolution.pdb

@@ -1,0 +1,5 @@
+D:\Projects\PracticeCalculateTriangleArea\PracticeCalculateTriangleArea\bin\Debug\PracticeCalculateTriangleArea.exe.config
+D:\Projects\PracticeCalculateTriangleArea\PracticeCalculateTriangleArea\bin\Debug\PracticeCalculateTriangleArea.exe
+D:\Projects\PracticeCalculateTriangleArea\PracticeCalculateTriangleArea\bin\Debug\PracticeCalculateTriangleArea.pdb
+D:\Projects\PracticeCalculateTriangleArea\PracticeCalculateTriangleArea\obj\Debug\PracticeCalculateTriangleArea.exe
+D:\Projects\PracticeCalculateTriangleArea\PracticeCalculateTriangleArea\obj\Debug\PracticeCalculateTriangleArea.pdb

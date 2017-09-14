@@ -1,0 +1,6 @@
+D:\Projects\Practice3ExcellentResult\Practice3ExcellentResult\bin\Debug\Practice3ExcellentResult.exe.config
+D:\Projects\Practice3ExcellentResult\Practice3ExcellentResult\bin\Debug\Practice3ExcellentResult.exe
+D:\Projects\Practice3ExcellentResult\Practice3ExcellentResult\bin\Debug\Practice3ExcellentResult.pdb
+D:\Projects\Practice3ExcellentResult\Practice3ExcellentResult\obj\Debug\Practice3ExcellentResult.csprojResolveAssemblyReference.cache
+D:\Projects\Practice3ExcellentResult\Practice3ExcellentResult\obj\Debug\Practice3ExcellentResult.exe
+D:\Projects\Practice3ExcellentResult\Practice3ExcellentResult\obj\Debug\Practice3ExcellentResult.pdb

@@ -1,0 +1,5 @@
+D:\Projects\PracticeSplitByWordCasing\PracticeSplitByWordCasing\bin\Debug\PracticeSplitByWordCasing.exe.config
+D:\Projects\PracticeSplitByWordCasing\PracticeSplitByWordCasing\bin\Debug\PracticeSplitByWordCasing.exe
+D:\Projects\PracticeSplitByWordCasing\PracticeSplitByWordCasing\bin\Debug\PracticeSplitByWordCasing.pdb
+D:\Projects\PracticeSplitByWordCasing\PracticeSplitByWordCasing\obj\Debug\PracticeSplitByWordCasing.exe
+D:\Projects\PracticeSplitByWordCasing\PracticeSplitByWordCasing\obj\Debug\PracticeSplitByWordCasing.pdb

@@ -1,0 +1,5 @@
+D:\Projects\PracticeStupidPass\PracticeStupidPass\bin\Debug\PracticeStupidPass.exe.config
+D:\Projects\PracticeStupidPass\PracticeStupidPass\bin\Debug\PracticeStupidPass.exe
+D:\Projects\PracticeStupidPass\PracticeStupidPass\bin\Debug\PracticeStupidPass.pdb
+D:\Projects\PracticeStupidPass\PracticeStupidPass\obj\Debug\PracticeStupidPass.exe
+D:\Projects\PracticeStupidPass\PracticeStupidPass\obj\Debug\PracticeStupidPass.pdb

@@ -1,0 +1,6 @@
+D:\Projects\PracticeFilesDirectories\TelerikExamAlfaNumbers\TelerikExamAlfaNumbers\bin\Debug\TelerikExamAlfaNumbers.exe.config
+D:\Projects\PracticeFilesDirectories\TelerikExamAlfaNumbers\TelerikExamAlfaNumbers\bin\Debug\TelerikExamAlfaNumbers.exe
+D:\Projects\PracticeFilesDirectories\TelerikExamAlfaNumbers\TelerikExamAlfaNumbers\bin\Debug\TelerikExamAlfaNumbers.pdb
+D:\Projects\PracticeFilesDirectories\TelerikExamAlfaNumbers\TelerikExamAlfaNumbers\obj\Debug\TelerikExamAlfaNumbers.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFilesDirectories\TelerikExamAlfaNumbers\TelerikExamAlfaNumbers\obj\Debug\TelerikExamAlfaNumbers.exe
+D:\Projects\PracticeFilesDirectories\TelerikExamAlfaNumbers\TelerikExamAlfaNumbers\obj\Debug\TelerikExamAlfaNumbers.pdb

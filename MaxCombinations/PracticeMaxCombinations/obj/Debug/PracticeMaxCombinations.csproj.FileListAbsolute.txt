@@ -1,0 +1,5 @@
+D:\Projects\PracticeMaxCombinations\PracticeMaxCombinations\bin\Debug\PracticeMaxCombinations.exe.config
+D:\Projects\PracticeMaxCombinations\PracticeMaxCombinations\bin\Debug\PracticeMaxCombinations.exe
+D:\Projects\PracticeMaxCombinations\PracticeMaxCombinations\bin\Debug\PracticeMaxCombinations.pdb
+D:\Projects\PracticeMaxCombinations\PracticeMaxCombinations\obj\Debug\PracticeMaxCombinations.exe
+D:\Projects\PracticeMaxCombinations\PracticeMaxCombinations\obj\Debug\PracticeMaxCombinations.pdb

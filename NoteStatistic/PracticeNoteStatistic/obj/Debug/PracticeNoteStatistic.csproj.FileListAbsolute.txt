@@ -1,0 +1,6 @@
+D:\Projects\PracticeNoteStatistic\PracticeNoteStatistic\bin\Debug\PracticeNoteStatistic.exe.config
+D:\Projects\PracticeNoteStatistic\PracticeNoteStatistic\bin\Debug\PracticeNoteStatistic.exe
+D:\Projects\PracticeNoteStatistic\PracticeNoteStatistic\bin\Debug\PracticeNoteStatistic.pdb
+D:\Projects\PracticeNoteStatistic\PracticeNoteStatistic\obj\Debug\PracticeNoteStatistic.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeNoteStatistic\PracticeNoteStatistic\obj\Debug\PracticeNoteStatistic.exe
+D:\Projects\PracticeNoteStatistic\PracticeNoteStatistic\obj\Debug\PracticeNoteStatistic.pdb

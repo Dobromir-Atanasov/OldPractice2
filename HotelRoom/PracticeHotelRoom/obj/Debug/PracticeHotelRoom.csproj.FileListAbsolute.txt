@@ -1,0 +1,6 @@
+D:\Projects\PracticeHotelRoom\PracticeHotelRoom\bin\Debug\PracticeHotelRoom.exe.config
+D:\Projects\PracticeHotelRoom\PracticeHotelRoom\bin\Debug\PracticeHotelRoom.exe
+D:\Projects\PracticeHotelRoom\PracticeHotelRoom\bin\Debug\PracticeHotelRoom.pdb
+D:\Projects\PracticeHotelRoom\PracticeHotelRoom\obj\Debug\PracticeHotelRoom.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeHotelRoom\PracticeHotelRoom\obj\Debug\PracticeHotelRoom.exe
+D:\Projects\PracticeHotelRoom\PracticeHotelRoom\obj\Debug\PracticeHotelRoom.pdb

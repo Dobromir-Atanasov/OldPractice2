@@ -1,0 +1,6 @@
+D:\Projects\PracticeFishLand\PracticeFishLand\bin\Debug\PracticeFishLand.exe.config
+D:\Projects\PracticeFishLand\PracticeFishLand\bin\Debug\PracticeFishLand.exe
+D:\Projects\PracticeFishLand\PracticeFishLand\bin\Debug\PracticeFishLand.pdb
+D:\Projects\PracticeFishLand\PracticeFishLand\obj\Debug\PracticeFishLand.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFishLand\PracticeFishLand\obj\Debug\PracticeFishLand.exe
+D:\Projects\PracticeFishLand\PracticeFishLand\obj\Debug\PracticeFishLand.pdb

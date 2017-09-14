@@ -1,0 +1,6 @@
+D:\Projects\PracticeIfCicle\PracticeIfCicle\bin\Debug\PracticeIfCicle.exe.config
+D:\Projects\PracticeIfCicle\PracticeIfCicle\bin\Debug\PracticeIfCicle.exe
+D:\Projects\PracticeIfCicle\PracticeIfCicle\bin\Debug\PracticeIfCicle.pdb
+D:\Projects\PracticeIfCicle\PracticeIfCicle\obj\Debug\PracticeIfCicle.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeIfCicle\PracticeIfCicle\obj\Debug\PracticeIfCicle.exe
+D:\Projects\PracticeIfCicle\PracticeIfCicle\obj\Debug\PracticeIfCicle.pdb

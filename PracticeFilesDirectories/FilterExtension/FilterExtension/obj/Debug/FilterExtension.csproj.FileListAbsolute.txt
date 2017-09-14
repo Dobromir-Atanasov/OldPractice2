@@ -1,0 +1,6 @@
+D:\Projects\PracticeFilesDirectories\FilterExtension\FilterExtension\bin\Debug\FilterExtension.exe.config
+D:\Projects\PracticeFilesDirectories\FilterExtension\FilterExtension\bin\Debug\FilterExtension.exe
+D:\Projects\PracticeFilesDirectories\FilterExtension\FilterExtension\bin\Debug\FilterExtension.pdb
+D:\Projects\PracticeFilesDirectories\FilterExtension\FilterExtension\obj\Debug\FilterExtension.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFilesDirectories\FilterExtension\FilterExtension\obj\Debug\FilterExtension.exe
+D:\Projects\PracticeFilesDirectories\FilterExtension\FilterExtension\obj\Debug\FilterExtension.pdb

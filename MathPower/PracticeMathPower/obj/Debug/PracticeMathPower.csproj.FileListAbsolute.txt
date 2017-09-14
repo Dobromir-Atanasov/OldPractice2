@@ -1,0 +1,5 @@
+D:\Projects\PracticeMathPower\PracticeMathPower\bin\Debug\PracticeMathPower.exe.config
+D:\Projects\PracticeMathPower\PracticeMathPower\bin\Debug\PracticeMathPower.exe
+D:\Projects\PracticeMathPower\PracticeMathPower\bin\Debug\PracticeMathPower.pdb
+D:\Projects\PracticeMathPower\PracticeMathPower\obj\Debug\PracticeMathPower.exe
+D:\Projects\PracticeMathPower\PracticeMathPower\obj\Debug\PracticeMathPower.pdb

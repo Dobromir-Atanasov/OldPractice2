@@ -1,0 +1,9 @@
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\bin\Debug\PracticePointAndRectangle.exe.config
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\bin\Debug\PracticePointAndRectangle.exe
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\bin\Debug\PracticePointAndRectangle.pdb
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\obj\Debug\PracticePointAndRectangle.csprojResolveAssemblyReference.cache
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\obj\Debug\PracticePointAndRectangle.FormPointAndRectangle.resources
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\obj\Debug\PracticePointAndRectangle.Properties.Resources.resources
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\obj\Debug\PracticePointAndRectangle.csproj.GenerateResource.Cache
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\obj\Debug\PracticePointAndRectangle.exe
+D:\Projects\PracticePointAndRectangle\PracticePointAndRectangle\obj\Debug\PracticePointAndRectangle.pdb

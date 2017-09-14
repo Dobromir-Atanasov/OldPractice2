@@ -1,0 +1,6 @@
+D:\Projects\practiceWinningCup\practiceWinningCup\bin\Debug\practiceWinningCup.exe.config
+D:\Projects\practiceWinningCup\practiceWinningCup\bin\Debug\practiceWinningCup.exe
+D:\Projects\practiceWinningCup\practiceWinningCup\bin\Debug\practiceWinningCup.pdb
+D:\Projects\practiceWinningCup\practiceWinningCup\obj\Debug\practiceWinningCup.csprojResolveAssemblyReference.cache
+D:\Projects\practiceWinningCup\practiceWinningCup\obj\Debug\practiceWinningCup.exe
+D:\Projects\practiceWinningCup\practiceWinningCup\obj\Debug\practiceWinningCup.pdb

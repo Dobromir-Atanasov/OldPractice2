@@ -1,0 +1,6 @@
+D:\Projects\Practice3TransportPrice\Practice3TransportPrice\bin\Debug\Practice3TransportPrice.exe.config
+D:\Projects\Practice3TransportPrice\Practice3TransportPrice\bin\Debug\Practice3TransportPrice.exe
+D:\Projects\Practice3TransportPrice\Practice3TransportPrice\bin\Debug\Practice3TransportPrice.pdb
+D:\Projects\Practice3TransportPrice\Practice3TransportPrice\obj\Debug\Practice3TransportPrice.csprojResolveAssemblyReference.cache
+D:\Projects\Practice3TransportPrice\Practice3TransportPrice\obj\Debug\Practice3TransportPrice.exe
+D:\Projects\Practice3TransportPrice\Practice3TransportPrice\obj\Debug\Practice3TransportPrice.pdb

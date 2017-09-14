@@ -1,0 +1,6 @@
+D:\Projects\Practice3KnightGame\Practice3KnightGame\bin\Debug\Practice3KnightGame.exe.config
+D:\Projects\Practice3KnightGame\Practice3KnightGame\obj\Debug\Practice3KnightGame.csprojResolveAssemblyReference.cache
+D:\Projects\Practice3KnightGame\Practice3KnightGame\bin\Debug\Practice3KnightGame.exe
+D:\Projects\Practice3KnightGame\Practice3KnightGame\bin\Debug\Practice3KnightGame.pdb
+D:\Projects\Practice3KnightGame\Practice3KnightGame\obj\Debug\Practice3KnightGame.exe
+D:\Projects\Practice3KnightGame\Practice3KnightGame\obj\Debug\Practice3KnightGame.pdb

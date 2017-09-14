@@ -1,0 +1,6 @@
+D:\Projects\PracticeHistogram\PracticeHistogram\bin\Debug\PracticeHistogram.exe.config
+D:\Projects\PracticeHistogram\PracticeHistogram\bin\Debug\PracticeHistogram.exe
+D:\Projects\PracticeHistogram\PracticeHistogram\bin\Debug\PracticeHistogram.pdb
+D:\Projects\PracticeHistogram\PracticeHistogram\obj\Debug\PracticeHistogram.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeHistogram\PracticeHistogram\obj\Debug\PracticeHistogram.exe
+D:\Projects\PracticeHistogram\PracticeHistogram\obj\Debug\PracticeHistogram.pdb

@@ -1,0 +1,6 @@
+D:\Projects\PracticeRandomizeWords\PracticeRandomizeWords\bin\Debug\PracticeRandomizeWords.exe.config
+D:\Projects\PracticeRandomizeWords\PracticeRandomizeWords\bin\Debug\PracticeRandomizeWords.exe
+D:\Projects\PracticeRandomizeWords\PracticeRandomizeWords\bin\Debug\PracticeRandomizeWords.pdb
+D:\Projects\PracticeRandomizeWords\PracticeRandomizeWords\obj\Debug\PracticeRandomizeWords.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeRandomizeWords\PracticeRandomizeWords\obj\Debug\PracticeRandomizeWords.exe
+D:\Projects\PracticeRandomizeWords\PracticeRandomizeWords\obj\Debug\PracticeRandomizeWords.pdb

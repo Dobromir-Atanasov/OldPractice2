@@ -1,0 +1,6 @@
+D:\Projects\PracticePhotoPictures\PracticePhotoPictures\bin\Debug\PracticePhotoPictures.exe.config
+D:\Projects\PracticePhotoPictures\PracticePhotoPictures\bin\Debug\PracticePhotoPictures.exe
+D:\Projects\PracticePhotoPictures\PracticePhotoPictures\bin\Debug\PracticePhotoPictures.pdb
+D:\Projects\PracticePhotoPictures\PracticePhotoPictures\obj\Debug\PracticePhotoPictures.csprojResolveAssemblyReference.cache
+D:\Projects\PracticePhotoPictures\PracticePhotoPictures\obj\Debug\PracticePhotoPictures.exe
+D:\Projects\PracticePhotoPictures\PracticePhotoPictures\obj\Debug\PracticePhotoPictures.pdb
