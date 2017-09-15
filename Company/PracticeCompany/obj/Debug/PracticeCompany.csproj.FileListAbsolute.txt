@@ -1,5 +1,0 @@
-D:\Projects\PracticeCompany\PracticeCompany\bin\Debug\PracticeCompany.exe.config
-D:\Projects\PracticeCompany\PracticeCompany\bin\Debug\PracticeCompany.exe
-D:\Projects\PracticeCompany\PracticeCompany\bin\Debug\PracticeCompany.pdb
-D:\Projects\PracticeCompany\PracticeCompany\obj\Debug\PracticeCompany.exe
-D:\Projects\PracticeCompany\PracticeCompany\obj\Debug\PracticeCompany.pdb

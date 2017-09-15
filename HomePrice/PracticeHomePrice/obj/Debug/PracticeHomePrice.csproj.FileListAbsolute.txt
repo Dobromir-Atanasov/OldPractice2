@@ -1,6 +1,0 @@
-D:\Projects\PracticeHomePrice\PracticeHomePrice\bin\Debug\PracticeHomePrice.exe.config
-D:\Projects\PracticeHomePrice\PracticeHomePrice\bin\Debug\PracticeHomePrice.exe
-D:\Projects\PracticeHomePrice\PracticeHomePrice\bin\Debug\PracticeHomePrice.pdb
-D:\Projects\PracticeHomePrice\PracticeHomePrice\obj\Debug\PracticeHomePrice.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeHomePrice\PracticeHomePrice\obj\Debug\PracticeHomePrice.exe
-D:\Projects\PracticeHomePrice\PracticeHomePrice\obj\Debug\PracticeHomePrice.pdb

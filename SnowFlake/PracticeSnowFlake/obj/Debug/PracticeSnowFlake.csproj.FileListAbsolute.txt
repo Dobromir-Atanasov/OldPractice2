@@ -1,5 +1,0 @@
-D:\Projects\PracticeSnowFlake\PracticeSnowFlake\bin\Debug\PracticeSnowFlake.exe.config
-D:\Projects\PracticeSnowFlake\PracticeSnowFlake\bin\Debug\PracticeSnowFlake.exe
-D:\Projects\PracticeSnowFlake\PracticeSnowFlake\bin\Debug\PracticeSnowFlake.pdb
-D:\Projects\PracticeSnowFlake\PracticeSnowFlake\obj\Debug\PracticeSnowFlake.exe
-D:\Projects\PracticeSnowFlake\PracticeSnowFlake\obj\Debug\PracticeSnowFlake.pdb

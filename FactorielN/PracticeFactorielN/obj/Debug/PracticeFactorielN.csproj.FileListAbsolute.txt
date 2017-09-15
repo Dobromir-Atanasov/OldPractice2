@@ -1,6 +1,0 @@
-D:\Projects\PracticeFactorielN\PracticeFactorielN\bin\Debug\PracticeFactorielN.exe.config
-D:\Projects\PracticeFactorielN\PracticeFactorielN\bin\Debug\PracticeFactorielN.exe
-D:\Projects\PracticeFactorielN\PracticeFactorielN\bin\Debug\PracticeFactorielN.pdb
-D:\Projects\PracticeFactorielN\PracticeFactorielN\obj\Debug\PracticeFactorielN.exe
-D:\Projects\PracticeFactorielN\PracticeFactorielN\obj\Debug\PracticeFactorielN.pdb
-D:\Projects\PracticeFactorielN\PracticeFactorielN\obj\Debug\PracticeFactorielN.csprojResolveAssemblyReference.cache

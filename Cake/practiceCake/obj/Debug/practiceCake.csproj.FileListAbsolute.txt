@@ -1,5 +1,0 @@
-D:\Projects\practiceCake\practiceCake\bin\Debug\practiceCake.exe.config
-D:\Projects\practiceCake\practiceCake\bin\Debug\practiceCake.exe
-D:\Projects\practiceCake\practiceCake\bin\Debug\practiceCake.pdb
-D:\Projects\practiceCake\practiceCake\obj\Debug\practiceCake.exe
-D:\Projects\practiceCake\practiceCake\obj\Debug\practiceCake.pdb

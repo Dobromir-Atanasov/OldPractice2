@@ -1,6 +1,0 @@
-D:\Projects\PracticeRegexmon\PracticeRegexmon\bin\Debug\PracticeRegexmon.exe.config
-D:\Projects\PracticeRegexmon\PracticeRegexmon\bin\Debug\PracticeRegexmon.exe
-D:\Projects\PracticeRegexmon\PracticeRegexmon\bin\Debug\PracticeRegexmon.pdb
-D:\Projects\PracticeRegexmon\PracticeRegexmon\obj\Debug\PracticeRegexmon.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeRegexmon\PracticeRegexmon\obj\Debug\PracticeRegexmon.exe
-D:\Projects\PracticeRegexmon\PracticeRegexmon\obj\Debug\PracticeRegexmon.pdb

@@ -1,5 +1,0 @@
-D:\Projects\PracticeFilesDirectories\TelerikSpellCaster\TelerikSpellCaster\bin\Debug\TelerikSpellCaster.exe.config
-D:\Projects\PracticeFilesDirectories\TelerikSpellCaster\TelerikSpellCaster\bin\Debug\TelerikSpellCaster.exe
-D:\Projects\PracticeFilesDirectories\TelerikSpellCaster\TelerikSpellCaster\bin\Debug\TelerikSpellCaster.pdb
-D:\Projects\PracticeFilesDirectories\TelerikSpellCaster\TelerikSpellCaster\obj\Debug\TelerikSpellCaster.exe
-D:\Projects\PracticeFilesDirectories\TelerikSpellCaster\TelerikSpellCaster\obj\Debug\TelerikSpellCaster.pdb

@@ -1,6 +1,0 @@
-D:\Projects\PracticeLambdaLinqArrayData\PracticeLambdaLinqArrayData\bin\Debug\PracticeLambdaLinqArrayData.exe.config
-D:\Projects\PracticeLambdaLinqArrayData\PracticeLambdaLinqArrayData\obj\Debug\PracticeLambdaLinqArrayData.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeLambdaLinqArrayData\PracticeLambdaLinqArrayData\bin\Debug\PracticeLambdaLinqArrayData.exe
-D:\Projects\PracticeLambdaLinqArrayData\PracticeLambdaLinqArrayData\bin\Debug\PracticeLambdaLinqArrayData.pdb
-D:\Projects\PracticeLambdaLinqArrayData\PracticeLambdaLinqArrayData\obj\Debug\PracticeLambdaLinqArrayData.exe
-D:\Projects\PracticeLambdaLinqArrayData\PracticeLambdaLinqArrayData\obj\Debug\PracticeLambdaLinqArrayData.pdb

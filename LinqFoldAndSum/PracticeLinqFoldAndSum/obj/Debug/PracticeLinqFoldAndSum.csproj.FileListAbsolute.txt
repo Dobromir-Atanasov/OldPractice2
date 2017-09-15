@@ -1,6 +1,0 @@
-D:\Projects\PracticeLinqFoldAndSum\PracticeLinqFoldAndSum\bin\Debug\PracticeLinqFoldAndSum.exe.config
-D:\Projects\PracticeLinqFoldAndSum\PracticeLinqFoldAndSum\bin\Debug\PracticeLinqFoldAndSum.exe
-D:\Projects\PracticeLinqFoldAndSum\PracticeLinqFoldAndSum\bin\Debug\PracticeLinqFoldAndSum.pdb
-D:\Projects\PracticeLinqFoldAndSum\PracticeLinqFoldAndSum\obj\Debug\PracticeLinqFoldAndSum.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeLinqFoldAndSum\PracticeLinqFoldAndSum\obj\Debug\PracticeLinqFoldAndSum.exe
-D:\Projects\PracticeLinqFoldAndSum\PracticeLinqFoldAndSum\obj\Debug\PracticeLinqFoldAndSum.pdb

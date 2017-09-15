@@ -1,6 +1,0 @@
-D:\Projects\practiceStopNumber\practiceStopNumber\bin\Debug\practiceStopNumber.exe.config
-D:\Projects\practiceStopNumber\practiceStopNumber\bin\Debug\practiceStopNumber.exe
-D:\Projects\practiceStopNumber\practiceStopNumber\bin\Debug\practiceStopNumber.pdb
-D:\Projects\practiceStopNumber\practiceStopNumber\obj\Debug\practiceStopNumber.csprojResolveAssemblyReference.cache
-D:\Projects\practiceStopNumber\practiceStopNumber\obj\Debug\practiceStopNumber.exe
-D:\Projects\practiceStopNumber\practiceStopNumber\obj\Debug\practiceStopNumber.pdb

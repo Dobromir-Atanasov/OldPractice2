@@ -1,5 +1,0 @@
-D:\Projects\PracticeCamelsBack\PracticeCamelsBack\bin\Debug\PracticeCamelsBack.exe.config
-D:\Projects\PracticeCamelsBack\PracticeCamelsBack\bin\Debug\PracticeCamelsBack.exe
-D:\Projects\PracticeCamelsBack\PracticeCamelsBack\bin\Debug\PracticeCamelsBack.pdb
-D:\Projects\PracticeCamelsBack\PracticeCamelsBack\obj\Debug\PracticeCamelsBack.exe
-D:\Projects\PracticeCamelsBack\PracticeCamelsBack\obj\Debug\PracticeCamelsBack.pdb

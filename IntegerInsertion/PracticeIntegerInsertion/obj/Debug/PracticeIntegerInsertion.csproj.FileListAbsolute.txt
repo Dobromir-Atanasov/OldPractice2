@@ -1,6 +1,0 @@
-D:\Projects\PracticeIntegerInsertion\PracticeIntegerInsertion\bin\Debug\PracticeIntegerInsertion.exe.config
-D:\Projects\PracticeIntegerInsertion\PracticeIntegerInsertion\bin\Debug\PracticeIntegerInsertion.exe
-D:\Projects\PracticeIntegerInsertion\PracticeIntegerInsertion\bin\Debug\PracticeIntegerInsertion.pdb
-D:\Projects\PracticeIntegerInsertion\PracticeIntegerInsertion\obj\Debug\PracticeIntegerInsertion.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeIntegerInsertion\PracticeIntegerInsertion\obj\Debug\PracticeIntegerInsertion.exe
-D:\Projects\PracticeIntegerInsertion\PracticeIntegerInsertion\obj\Debug\PracticeIntegerInsertion.pdb

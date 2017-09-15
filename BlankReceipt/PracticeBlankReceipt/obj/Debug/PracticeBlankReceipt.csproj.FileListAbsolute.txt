@@ -1,5 +1,0 @@
-D:\Projects\PracticeBlankReceipt\PracticeBlankReceipt\bin\Debug\PracticeBlankReceipt.exe.config
-D:\Projects\PracticeBlankReceipt\PracticeBlankReceipt\bin\Debug\PracticeBlankReceipt.exe
-D:\Projects\PracticeBlankReceipt\PracticeBlankReceipt\bin\Debug\PracticeBlankReceipt.pdb
-D:\Projects\PracticeBlankReceipt\PracticeBlankReceipt\obj\Debug\PracticeBlankReceipt.exe
-D:\Projects\PracticeBlankReceipt\PracticeBlankReceipt\obj\Debug\PracticeBlankReceipt.pdb

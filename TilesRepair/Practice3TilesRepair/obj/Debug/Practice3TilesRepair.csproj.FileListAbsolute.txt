@@ -1,6 +1,0 @@
-D:\Projects\Practice3TilesRepair\Practice3TilesRepair\bin\Debug\Practice3TilesRepair.exe.config
-D:\Projects\Practice3TilesRepair\Practice3TilesRepair\bin\Debug\Practice3TilesRepair.exe
-D:\Projects\Practice3TilesRepair\Practice3TilesRepair\bin\Debug\Practice3TilesRepair.pdb
-D:\Projects\Practice3TilesRepair\Practice3TilesRepair\obj\Debug\Practice3TilesRepair.csprojResolveAssemblyReference.cache
-D:\Projects\Practice3TilesRepair\Practice3TilesRepair\obj\Debug\Practice3TilesRepair.exe
-D:\Projects\Practice3TilesRepair\Practice3TilesRepair\obj\Debug\Practice3TilesRepair.pdb

@@ -1,5 +1,0 @@
-D:\Projects\PracticeCurrencyConvertor\PracticeCurrencyConvertor\bin\Debug\PracticeCurrencyConvertor.exe.config
-D:\Projects\PracticeCurrencyConvertor\PracticeCurrencyConvertor\obj\Debug\PracticeCurrencyConvertor.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeCurrencyConvertor\PracticeCurrencyConvertor\obj\Debug\PracticeCurrencyConvertor.CurrencyConvertor.resources
-D:\Projects\PracticeCurrencyConvertor\PracticeCurrencyConvertor\obj\Debug\PracticeCurrencyConvertor.Properties.Resources.resources
-D:\Projects\PracticeCurrencyConvertor\PracticeCurrencyConvertor\obj\Debug\PracticeCurrencyConvertor.csproj.GenerateResource.Cache

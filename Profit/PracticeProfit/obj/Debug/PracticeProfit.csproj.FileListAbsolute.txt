@@ -1,5 +1,0 @@
-D:\Projects\PracticeProfit\PracticeProfit\bin\Debug\PracticeProfit.exe.config
-D:\Projects\PracticeProfit\PracticeProfit\bin\Debug\PracticeProfit.exe
-D:\Projects\PracticeProfit\PracticeProfit\bin\Debug\PracticeProfit.pdb
-D:\Projects\PracticeProfit\PracticeProfit\obj\Debug\PracticeProfit.exe
-D:\Projects\PracticeProfit\PracticeProfit\obj\Debug\PracticeProfit.pdb

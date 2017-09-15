@@ -1,5 +1,0 @@
-D:\Projects\PracticeTriangeOfNumbers\PracticeTriangeOfNumbers\bin\Debug\PracticeTriangeOfNumbers.exe.config
-D:\Projects\PracticeTriangeOfNumbers\PracticeTriangeOfNumbers\bin\Debug\PracticeTriangeOfNumbers.exe
-D:\Projects\PracticeTriangeOfNumbers\PracticeTriangeOfNumbers\bin\Debug\PracticeTriangeOfNumbers.pdb
-D:\Projects\PracticeTriangeOfNumbers\PracticeTriangeOfNumbers\obj\Debug\PracticeTriangeOfNumbers.exe
-D:\Projects\PracticeTriangeOfNumbers\PracticeTriangeOfNumbers\obj\Debug\PracticeTriangeOfNumbers.pdb

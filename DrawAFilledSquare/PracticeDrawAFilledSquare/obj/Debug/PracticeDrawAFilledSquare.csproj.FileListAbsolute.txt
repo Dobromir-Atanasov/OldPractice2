@@ -1,6 +1,0 @@
-D:\Projects\PracticeDrawAFilledSquare\PracticeDrawAFilledSquare\bin\Debug\PracticeDrawAFilledSquare.exe.config
-D:\Projects\PracticeDrawAFilledSquare\PracticeDrawAFilledSquare\bin\Debug\PracticeDrawAFilledSquare.exe
-D:\Projects\PracticeDrawAFilledSquare\PracticeDrawAFilledSquare\bin\Debug\PracticeDrawAFilledSquare.pdb
-D:\Projects\PracticeDrawAFilledSquare\PracticeDrawAFilledSquare\obj\Debug\PracticeDrawAFilledSquare.exe
-D:\Projects\PracticeDrawAFilledSquare\PracticeDrawAFilledSquare\obj\Debug\PracticeDrawAFilledSquare.pdb
-D:\Projects\PracticeDrawAFilledSquare\PracticeDrawAFilledSquare\obj\Debug\PracticeDrawAFilledSquare.csprojResolveAssemblyReference.cache

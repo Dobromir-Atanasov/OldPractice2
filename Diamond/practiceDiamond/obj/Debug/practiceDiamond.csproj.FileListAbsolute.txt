@@ -1,5 +1,0 @@
-D:\Projects\practiceDiamond\practiceDiamond\bin\Debug\practiceDiamond.exe.config
-D:\Projects\practiceDiamond\practiceDiamond\bin\Debug\practiceDiamond.exe
-D:\Projects\practiceDiamond\practiceDiamond\bin\Debug\practiceDiamond.pdb
-D:\Projects\practiceDiamond\practiceDiamond\obj\Debug\practiceDiamond.exe
-D:\Projects\practiceDiamond\practiceDiamond\obj\Debug\practiceDiamond.pdb

@@ -1,5 +1,0 @@
-D:\Projects\PracticeAxeDrawing\PracticeAxeDrawing\bin\Debug\PracticeAxeDrawing.exe.config
-D:\Projects\PracticeAxeDrawing\PracticeAxeDrawing\bin\Debug\PracticeAxeDrawing.exe
-D:\Projects\PracticeAxeDrawing\PracticeAxeDrawing\bin\Debug\PracticeAxeDrawing.pdb
-D:\Projects\PracticeAxeDrawing\PracticeAxeDrawing\obj\Debug\PracticeAxeDrawing.exe
-D:\Projects\PracticeAxeDrawing\PracticeAxeDrawing\obj\Debug\PracticeAxeDrawing.pdb

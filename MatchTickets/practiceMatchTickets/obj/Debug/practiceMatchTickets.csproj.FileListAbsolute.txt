@@ -1,6 +1,0 @@
-D:\Projects\practiceMatchTickets\practiceMatchTickets\bin\Debug\practiceMatchTickets.exe.config
-D:\Projects\practiceMatchTickets\practiceMatchTickets\bin\Debug\practiceMatchTickets.exe
-D:\Projects\practiceMatchTickets\practiceMatchTickets\bin\Debug\practiceMatchTickets.pdb
-D:\Projects\practiceMatchTickets\practiceMatchTickets\obj\Debug\practiceMatchTickets.csprojResolveAssemblyReference.cache
-D:\Projects\practiceMatchTickets\practiceMatchTickets\obj\Debug\practiceMatchTickets.exe
-D:\Projects\practiceMatchTickets\practiceMatchTickets\obj\Debug\practiceMatchTickets.pdb

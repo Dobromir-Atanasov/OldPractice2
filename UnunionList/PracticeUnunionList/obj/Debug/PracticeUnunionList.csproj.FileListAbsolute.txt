@@ -1,6 +1,0 @@
-D:\Projects\PracticeUnunionList\PracticeUnunionList\bin\Debug\PracticeUnunionList.exe.config
-D:\Projects\PracticeUnunionList\PracticeUnunionList\bin\Debug\PracticeUnunionList.exe
-D:\Projects\PracticeUnunionList\PracticeUnunionList\bin\Debug\PracticeUnunionList.pdb
-D:\Projects\PracticeUnunionList\PracticeUnunionList\obj\Debug\PracticeUnunionList.exe
-D:\Projects\PracticeUnunionList\PracticeUnunionList\obj\Debug\PracticeUnunionList.pdb
-D:\Projects\PracticeUnunionList\PracticeUnunionList\obj\Debug\PracticeUnunionList.csprojResolveAssemblyReference.cache

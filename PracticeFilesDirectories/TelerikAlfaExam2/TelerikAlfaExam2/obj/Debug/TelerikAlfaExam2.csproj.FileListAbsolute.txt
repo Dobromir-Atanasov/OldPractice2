@@ -1,5 +1,0 @@
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam2\TelerikAlfaExam2\bin\Debug\TelerikAlfaExam2.exe.config
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam2\TelerikAlfaExam2\bin\Debug\TelerikAlfaExam2.exe
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam2\TelerikAlfaExam2\bin\Debug\TelerikAlfaExam2.pdb
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam2\TelerikAlfaExam2\obj\Debug\TelerikAlfaExam2.exe
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam2\TelerikAlfaExam2\obj\Debug\TelerikAlfaExam2.pdb

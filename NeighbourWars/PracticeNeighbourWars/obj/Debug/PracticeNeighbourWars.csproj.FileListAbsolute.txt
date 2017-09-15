@@ -1,5 +1,0 @@
-D:\Projects\PracticeNeighbourWars\PracticeNeighbourWars\bin\Debug\PracticeNeighbourWars.exe.config
-D:\Projects\PracticeNeighbourWars\PracticeNeighbourWars\bin\Debug\PracticeNeighbourWars.exe
-D:\Projects\PracticeNeighbourWars\PracticeNeighbourWars\bin\Debug\PracticeNeighbourWars.pdb
-D:\Projects\PracticeNeighbourWars\PracticeNeighbourWars\obj\Debug\PracticeNeighbourWars.exe
-D:\Projects\PracticeNeighbourWars\PracticeNeighbourWars\obj\Debug\PracticeNeighbourWars.pdb

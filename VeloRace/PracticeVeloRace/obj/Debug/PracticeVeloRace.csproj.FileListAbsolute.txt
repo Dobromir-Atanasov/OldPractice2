@@ -1,5 +1,0 @@
-D:\Projects\PracticeVeloRace\PracticeVeloRace\bin\Debug\PracticeVeloRace.exe.config
-D:\Projects\PracticeVeloRace\PracticeVeloRace\bin\Debug\PracticeVeloRace.exe
-D:\Projects\PracticeVeloRace\PracticeVeloRace\bin\Debug\PracticeVeloRace.pdb
-D:\Projects\PracticeVeloRace\PracticeVeloRace\obj\Debug\PracticeVeloRace.exe
-D:\Projects\PracticeVeloRace\PracticeVeloRace\obj\Debug\PracticeVeloRace.pdb

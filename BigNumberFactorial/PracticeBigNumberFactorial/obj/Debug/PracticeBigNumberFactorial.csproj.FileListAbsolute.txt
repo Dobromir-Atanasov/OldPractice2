@@ -1,6 +1,0 @@
-D:\Projects\PracticeBigNumberFactorial\PracticeBigNumberFactorial\bin\Debug\PracticeBigNumberFactorial.exe.config
-D:\Projects\PracticeBigNumberFactorial\PracticeBigNumberFactorial\bin\Debug\PracticeBigNumberFactorial.exe
-D:\Projects\PracticeBigNumberFactorial\PracticeBigNumberFactorial\bin\Debug\PracticeBigNumberFactorial.pdb
-D:\Projects\PracticeBigNumberFactorial\PracticeBigNumberFactorial\obj\Debug\PracticeBigNumberFactorial.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeBigNumberFactorial\PracticeBigNumberFactorial\obj\Debug\PracticeBigNumberFactorial.exe
-D:\Projects\PracticeBigNumberFactorial\PracticeBigNumberFactorial\obj\Debug\PracticeBigNumberFactorial.pdb

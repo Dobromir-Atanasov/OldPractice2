@@ -1,6 +1,0 @@
-D:\Projects\PracticeButerfly\PracticeButerfly\bin\Debug\PracticeButerfly.exe.config
-D:\Projects\PracticeButerfly\PracticeButerfly\bin\Debug\PracticeButerfly.exe
-D:\Projects\PracticeButerfly\PracticeButerfly\bin\Debug\PracticeButerfly.pdb
-D:\Projects\PracticeButerfly\PracticeButerfly\obj\Debug\PracticeButerfly.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeButerfly\PracticeButerfly\obj\Debug\PracticeButerfly.exe
-D:\Projects\PracticeButerfly\PracticeButerfly\obj\Debug\PracticeButerfly.pdb

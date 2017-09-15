@@ -1,6 +1,0 @@
-D:\Projects\PracticeFilesDirectories\TelerikPaperCutter\TelerikPaperCutter\bin\Debug\TelerikPaperCutter.exe.config
-D:\Projects\PracticeFilesDirectories\TelerikPaperCutter\TelerikPaperCutter\bin\Debug\TelerikPaperCutter.exe
-D:\Projects\PracticeFilesDirectories\TelerikPaperCutter\TelerikPaperCutter\bin\Debug\TelerikPaperCutter.pdb
-D:\Projects\PracticeFilesDirectories\TelerikPaperCutter\TelerikPaperCutter\obj\Debug\TelerikPaperCutter.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeFilesDirectories\TelerikPaperCutter\TelerikPaperCutter\obj\Debug\TelerikPaperCutter.exe
-D:\Projects\PracticeFilesDirectories\TelerikPaperCutter\TelerikPaperCutter\obj\Debug\TelerikPaperCutter.pdb

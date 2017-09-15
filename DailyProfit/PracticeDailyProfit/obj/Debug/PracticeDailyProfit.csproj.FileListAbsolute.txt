@@ -1,6 +1,0 @@
-D:\Projects\PracticeDailyProfit\PracticeDailyProfit\bin\Debug\PracticeDailyProfit.exe.config
-D:\Projects\PracticeDailyProfit\PracticeDailyProfit\bin\Debug\PracticeDailyProfit.exe
-D:\Projects\PracticeDailyProfit\PracticeDailyProfit\bin\Debug\PracticeDailyProfit.pdb
-D:\Projects\PracticeDailyProfit\PracticeDailyProfit\obj\Debug\PracticeDailyProfit.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeDailyProfit\PracticeDailyProfit\obj\Debug\PracticeDailyProfit.exe
-D:\Projects\PracticeDailyProfit\PracticeDailyProfit\obj\Debug\PracticeDailyProfit.pdb

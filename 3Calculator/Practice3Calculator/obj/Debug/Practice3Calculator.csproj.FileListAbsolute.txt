@@ -1,6 +1,0 @@
-D:\Projects\Practice3Calculator\Practice3Calculator\bin\Debug\Practice3Calculator.exe.config
-D:\Projects\Practice3Calculator\Practice3Calculator\bin\Debug\Practice3Calculator.exe
-D:\Projects\Practice3Calculator\Practice3Calculator\bin\Debug\Practice3Calculator.pdb
-D:\Projects\Practice3Calculator\Practice3Calculator\obj\Debug\Practice3Calculator.csprojResolveAssemblyReference.cache
-D:\Projects\Practice3Calculator\Practice3Calculator\obj\Debug\Practice3Calculator.exe
-D:\Projects\Practice3Calculator\Practice3Calculator\obj\Debug\Practice3Calculator.pdb

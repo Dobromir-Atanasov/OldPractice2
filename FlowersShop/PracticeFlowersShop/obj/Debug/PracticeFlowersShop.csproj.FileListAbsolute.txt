@@ -1,5 +1,0 @@
-D:\Projects\PracticeFlowersShop\PracticeFlowersShop\bin\Debug\PracticeFlowersShop.exe.config
-D:\Projects\PracticeFlowersShop\PracticeFlowersShop\bin\Debug\PracticeFlowersShop.exe
-D:\Projects\PracticeFlowersShop\PracticeFlowersShop\bin\Debug\PracticeFlowersShop.pdb
-D:\Projects\PracticeFlowersShop\PracticeFlowersShop\obj\Debug\PracticeFlowersShop.exe
-D:\Projects\PracticeFlowersShop\PracticeFlowersShop\obj\Debug\PracticeFlowersShop.pdb

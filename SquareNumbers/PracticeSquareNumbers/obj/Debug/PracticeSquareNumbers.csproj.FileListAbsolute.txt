@@ -1,6 +1,0 @@
-D:\Projects\PracticeSquareNumbers\PracticeSquareNumbers\bin\Debug\PracticeSquareNumbers.exe.config
-D:\Projects\PracticeSquareNumbers\PracticeSquareNumbers\bin\Debug\PracticeSquareNumbers.exe
-D:\Projects\PracticeSquareNumbers\PracticeSquareNumbers\bin\Debug\PracticeSquareNumbers.pdb
-D:\Projects\PracticeSquareNumbers\PracticeSquareNumbers\obj\Debug\PracticeSquareNumbers.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeSquareNumbers\PracticeSquareNumbers\obj\Debug\PracticeSquareNumbers.exe
-D:\Projects\PracticeSquareNumbers\PracticeSquareNumbers\obj\Debug\PracticeSquareNumbers.pdb

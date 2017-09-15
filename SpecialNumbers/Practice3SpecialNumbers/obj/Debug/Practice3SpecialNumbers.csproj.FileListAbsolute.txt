@@ -1,6 +1,0 @@
-D:\Projects\Practice3SpecialNumbers\Practice3SpecialNumbers\bin\Debug\Practice3SpecialNumbers.exe.config
-D:\Projects\Practice3SpecialNumbers\Practice3SpecialNumbers\bin\Debug\Practice3SpecialNumbers.exe
-D:\Projects\Practice3SpecialNumbers\Practice3SpecialNumbers\bin\Debug\Practice3SpecialNumbers.pdb
-D:\Projects\Practice3SpecialNumbers\Practice3SpecialNumbers\obj\Debug\Practice3SpecialNumbers.csprojResolveAssemblyReference.cache
-D:\Projects\Practice3SpecialNumbers\Practice3SpecialNumbers\obj\Debug\Practice3SpecialNumbers.exe
-D:\Projects\Practice3SpecialNumbers\Practice3SpecialNumbers\obj\Debug\Practice3SpecialNumbers.pdb

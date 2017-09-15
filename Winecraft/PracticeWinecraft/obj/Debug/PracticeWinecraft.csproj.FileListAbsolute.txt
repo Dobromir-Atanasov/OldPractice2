@@ -1,6 +1,0 @@
-D:\Projects\PracticeWinecraft\PracticeWinecraft\bin\Debug\PracticeWinecraft.exe.config
-D:\Projects\PracticeWinecraft\PracticeWinecraft\obj\Debug\PracticeWinecraft.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeWinecraft\PracticeWinecraft\bin\Debug\PracticeWinecraft.exe
-D:\Projects\PracticeWinecraft\PracticeWinecraft\bin\Debug\PracticeWinecraft.pdb
-D:\Projects\PracticeWinecraft\PracticeWinecraft\obj\Debug\PracticeWinecraft.exe
-D:\Projects\PracticeWinecraft\PracticeWinecraft\obj\Debug\PracticeWinecraft.pdb

@@ -1,6 +1,0 @@
-D:\Projects\PracticeMoney\PracticeMoney\bin\Debug\PracticeMoney.exe.config
-D:\Projects\PracticeMoney\PracticeMoney\bin\Debug\PracticeMoney.exe
-D:\Projects\PracticeMoney\PracticeMoney\bin\Debug\PracticeMoney.pdb
-D:\Projects\PracticeMoney\PracticeMoney\obj\Debug\PracticeMoney.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeMoney\PracticeMoney\obj\Debug\PracticeMoney.exe
-D:\Projects\PracticeMoney\PracticeMoney\obj\Debug\PracticeMoney.pdb
