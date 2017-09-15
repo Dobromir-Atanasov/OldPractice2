@@ -1,0 +1,6 @@
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

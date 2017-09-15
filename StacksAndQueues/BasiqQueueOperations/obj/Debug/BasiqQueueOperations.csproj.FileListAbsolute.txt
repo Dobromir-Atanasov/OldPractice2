@@ -1,0 +1,6 @@
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasiqQueueOperations\bin\Debug\BasiqQueueOperations.exe.config
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasiqQueueOperations\bin\Debug\BasiqQueueOperations.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasiqQueueOperations\bin\Debug\BasiqQueueOperations.pdb
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasiqQueueOperations\obj\Debug\BasiqQueueOperations.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasiqQueueOperations\obj\Debug\BasiqQueueOperations.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasiqQueueOperations\obj\Debug\BasiqQueueOperations.pdb

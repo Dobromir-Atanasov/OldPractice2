@@ -1,0 +1,5 @@
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasicStackOperations\bin\Debug\BasicStackOperations.exe.config
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasicStackOperations\bin\Debug\BasicStackOperations.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasicStackOperations\bin\Debug\BasicStackOperations.pdb
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasicStackOperations\obj\Debug\BasicStackOperations.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\BasicStackOperations\obj\Debug\BasicStackOperations.pdb

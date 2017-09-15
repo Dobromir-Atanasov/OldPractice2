@@ -1,0 +1,6 @@
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.exe.config
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\StacksAndQueues\bin\Debug\StacksAndQueues.pdb
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.csprojResolveAssemblyReference.cache
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.exe
+D:\Projects\PracticeFilesDirectories\StacksAndQueues\StacksAndQueues\obj\Debug\StacksAndQueues.pdb
