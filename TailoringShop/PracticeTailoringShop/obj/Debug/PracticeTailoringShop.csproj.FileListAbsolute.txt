@@ -1,6 +1,0 @@
-D:\Projects\PracticeTailoringShop\PracticeTailoringShop\bin\Debug\PracticeTailoringShop.exe.config
-D:\Projects\PracticeTailoringShop\PracticeTailoringShop\bin\Debug\PracticeTailoringShop.exe
-D:\Projects\PracticeTailoringShop\PracticeTailoringShop\bin\Debug\PracticeTailoringShop.pdb
-D:\Projects\PracticeTailoringShop\PracticeTailoringShop\obj\Debug\PracticeTailoringShop.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeTailoringShop\PracticeTailoringShop\obj\Debug\PracticeTailoringShop.exe
-D:\Projects\PracticeTailoringShop\PracticeTailoringShop\obj\Debug\PracticeTailoringShop.pdb

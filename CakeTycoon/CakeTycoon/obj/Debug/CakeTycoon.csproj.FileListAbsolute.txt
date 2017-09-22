@@ -1,6 +1,0 @@
-D:\Projects\CakeTycoon\CakeTycoon\bin\Debug\CakeTycoon.exe.config
-D:\Projects\CakeTycoon\CakeTycoon\bin\Debug\CakeTycoon.exe
-D:\Projects\CakeTycoon\CakeTycoon\bin\Debug\CakeTycoon.pdb
-D:\Projects\CakeTycoon\CakeTycoon\obj\Debug\CakeTycoon.csprojResolveAssemblyReference.cache
-D:\Projects\CakeTycoon\CakeTycoon\obj\Debug\CakeTycoon.exe
-D:\Projects\CakeTycoon\CakeTycoon\obj\Debug\CakeTycoon.pdb

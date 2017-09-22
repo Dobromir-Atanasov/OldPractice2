@@ -1,6 +1,0 @@
-D:\Projects\practiceTheCrop\practiceTheCrop\bin\Debug\practiceTheCrop.exe.config
-D:\Projects\practiceTheCrop\practiceTheCrop\bin\Debug\practiceTheCrop.exe
-D:\Projects\practiceTheCrop\practiceTheCrop\bin\Debug\practiceTheCrop.pdb
-D:\Projects\practiceTheCrop\practiceTheCrop\obj\Debug\practiceTheCrop.csprojResolveAssemblyReference.cache
-D:\Projects\practiceTheCrop\practiceTheCrop\obj\Debug\practiceTheCrop.exe
-D:\Projects\practiceTheCrop\practiceTheCrop\obj\Debug\practiceTheCrop.pdb

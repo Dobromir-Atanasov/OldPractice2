@@ -1,6 +1,0 @@
-D:\Projects\PracticeDictDict-Ref\PracticeDictDict-Ref\bin\Debug\PracticeDictDict-Ref.exe.config
-D:\Projects\PracticeDictDict-Ref\PracticeDictDict-Ref\bin\Debug\PracticeDictDict-Ref.exe
-D:\Projects\PracticeDictDict-Ref\PracticeDictDict-Ref\bin\Debug\PracticeDictDict-Ref.pdb
-D:\Projects\PracticeDictDict-Ref\PracticeDictDict-Ref\obj\Debug\PracticeDictDict-Ref.exe
-D:\Projects\PracticeDictDict-Ref\PracticeDictDict-Ref\obj\Debug\PracticeDictDict-Ref.pdb
-D:\Projects\PracticeDictDict-Ref\PracticeDictDict-Ref\obj\Debug\PracticeDictDict-Ref.csprojResolveAssemblyReference.cache

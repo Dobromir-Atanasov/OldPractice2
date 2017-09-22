@@ -1,6 +1,0 @@
-D:\Projects\PracticeClossestTwoPoints\PracticeClossestTwoPoints\bin\Debug\PracticeClossestTwoPoints.exe.config
-D:\Projects\PracticeClossestTwoPoints\PracticeClossestTwoPoints\obj\Debug\PracticeClossestTwoPoints.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeClossestTwoPoints\PracticeClossestTwoPoints\bin\Debug\PracticeClossestTwoPoints.exe
-D:\Projects\PracticeClossestTwoPoints\PracticeClossestTwoPoints\bin\Debug\PracticeClossestTwoPoints.pdb
-D:\Projects\PracticeClossestTwoPoints\PracticeClossestTwoPoints\obj\Debug\PracticeClossestTwoPoints.exe
-D:\Projects\PracticeClossestTwoPoints\PracticeClossestTwoPoints\obj\Debug\PracticeClossestTwoPoints.pdb

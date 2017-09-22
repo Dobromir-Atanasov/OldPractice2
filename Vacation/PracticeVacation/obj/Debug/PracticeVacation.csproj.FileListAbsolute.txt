@@ -1,6 +1,0 @@
-D:\Projects\PracticeVacation\PracticeVacation\bin\Debug\PracticeVacation.exe.config
-D:\Projects\PracticeVacation\PracticeVacation\bin\Debug\PracticeVacation.exe
-D:\Projects\PracticeVacation\PracticeVacation\bin\Debug\PracticeVacation.pdb
-D:\Projects\PracticeVacation\PracticeVacation\obj\Debug\PracticeVacation.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeVacation\PracticeVacation\obj\Debug\PracticeVacation.exe
-D:\Projects\PracticeVacation\PracticeVacation\obj\Debug\PracticeVacation.pdb

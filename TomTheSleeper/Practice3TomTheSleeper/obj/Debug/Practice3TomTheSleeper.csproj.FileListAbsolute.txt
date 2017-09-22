@@ -1,6 +1,0 @@
-D:\Projects\Practice3TomTheSleeper\Practice3TomTheSleeper\bin\Debug\Practice3TomTheSleeper.exe.config
-D:\Projects\Practice3TomTheSleeper\Practice3TomTheSleeper\bin\Debug\Practice3TomTheSleeper.exe
-D:\Projects\Practice3TomTheSleeper\Practice3TomTheSleeper\bin\Debug\Practice3TomTheSleeper.pdb
-D:\Projects\Practice3TomTheSleeper\Practice3TomTheSleeper\obj\Debug\Practice3TomTheSleeper.csprojResolveAssemblyReference.cache
-D:\Projects\Practice3TomTheSleeper\Practice3TomTheSleeper\obj\Debug\Practice3TomTheSleeper.exe
-D:\Projects\Practice3TomTheSleeper\Practice3TomTheSleeper\obj\Debug\Practice3TomTheSleeper.pdb

@@ -1,5 +1,0 @@
-D:\Projects\PracticeRecordUniqueNames\PracticeRecordUniqueNames\bin\Debug\PracticeRecordUniqueNames.exe.config
-D:\Projects\PracticeRecordUniqueNames\PracticeRecordUniqueNames\bin\Debug\PracticeRecordUniqueNames.exe
-D:\Projects\PracticeRecordUniqueNames\PracticeRecordUniqueNames\bin\Debug\PracticeRecordUniqueNames.pdb
-D:\Projects\PracticeRecordUniqueNames\PracticeRecordUniqueNames\obj\Debug\PracticeRecordUniqueNames.exe
-D:\Projects\PracticeRecordUniqueNames\PracticeRecordUniqueNames\obj\Debug\PracticeRecordUniqueNames.pdb

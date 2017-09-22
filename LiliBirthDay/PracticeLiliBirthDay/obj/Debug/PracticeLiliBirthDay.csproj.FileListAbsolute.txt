@@ -1,5 +1,0 @@
-D:\Projects\PracticeLiliBirthDay\PracticeLiliBirthDay\bin\Debug\PracticeLiliBirthDay.exe.config
-D:\Projects\PracticeLiliBirthDay\PracticeLiliBirthDay\bin\Debug\PracticeLiliBirthDay.exe
-D:\Projects\PracticeLiliBirthDay\PracticeLiliBirthDay\bin\Debug\PracticeLiliBirthDay.pdb
-D:\Projects\PracticeLiliBirthDay\PracticeLiliBirthDay\obj\Debug\PracticeLiliBirthDay.exe
-D:\Projects\PracticeLiliBirthDay\PracticeLiliBirthDay\obj\Debug\PracticeLiliBirthDay.pdb

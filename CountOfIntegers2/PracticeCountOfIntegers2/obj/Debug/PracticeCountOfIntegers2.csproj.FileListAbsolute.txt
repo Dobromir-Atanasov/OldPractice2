@@ -1,6 +1,0 @@
-D:\Projects\PracticeCountOfIntegers2\PracticeCountOfIntegers2\bin\Debug\PracticeCountOfIntegers2.exe.config
-D:\Projects\PracticeCountOfIntegers2\PracticeCountOfIntegers2\obj\Debug\PracticeCountOfIntegers2.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeCountOfIntegers2\PracticeCountOfIntegers2\bin\Debug\PracticeCountOfIntegers2.exe
-D:\Projects\PracticeCountOfIntegers2\PracticeCountOfIntegers2\bin\Debug\PracticeCountOfIntegers2.pdb
-D:\Projects\PracticeCountOfIntegers2\PracticeCountOfIntegers2\obj\Debug\PracticeCountOfIntegers2.exe
-D:\Projects\PracticeCountOfIntegers2\PracticeCountOfIntegers2\obj\Debug\PracticeCountOfIntegers2.pdb

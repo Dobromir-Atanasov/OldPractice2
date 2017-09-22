@@ -1,6 +1,0 @@
-D:\Projects\Practice3StopSign\Practice3StopSign\bin\Debug\Practice3StopSign.exe.config
-D:\Projects\Practice3StopSign\Practice3StopSign\bin\Debug\Practice3StopSign.exe
-D:\Projects\Practice3StopSign\Practice3StopSign\bin\Debug\Practice3StopSign.pdb
-D:\Projects\Practice3StopSign\Practice3StopSign\obj\Debug\Practice3StopSign.exe
-D:\Projects\Practice3StopSign\Practice3StopSign\obj\Debug\Practice3StopSign.pdb
-D:\Projects\Practice3StopSign\Practice3StopSign\obj\Debug\Practice3StopSign.csprojResolveAssemblyReference.cache

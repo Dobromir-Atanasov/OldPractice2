@@ -1,5 +1,0 @@
-D:\Projects\PracticeDividing\PracticeDividing\bin\Debug\PracticeDividing.exe.config
-D:\Projects\PracticeDividing\PracticeDividing\bin\Debug\PracticeDividing.exe
-D:\Projects\PracticeDividing\PracticeDividing\bin\Debug\PracticeDividing.pdb
-D:\Projects\PracticeDividing\PracticeDividing\obj\Debug\PracticeDividing.exe
-D:\Projects\PracticeDividing\PracticeDividing\obj\Debug\PracticeDividing.pdb

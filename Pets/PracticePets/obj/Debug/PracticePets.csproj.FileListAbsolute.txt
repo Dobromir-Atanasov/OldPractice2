@@ -1,6 +1,0 @@
-D:\Projects\PracticePets\PracticePets\bin\Debug\PracticePets.exe.config
-D:\Projects\PracticePets\PracticePets\bin\Debug\PracticePets.exe
-D:\Projects\PracticePets\PracticePets\bin\Debug\PracticePets.pdb
-D:\Projects\PracticePets\PracticePets\obj\Debug\PracticePets.csprojResolveAssemblyReference.cache
-D:\Projects\PracticePets\PracticePets\obj\Debug\PracticePets.exe
-D:\Projects\PracticePets\PracticePets\obj\Debug\PracticePets.pdb

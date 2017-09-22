@@ -1,6 +1,0 @@
-D:\Projects\PracticeFilesDirectories\TelerikAlfaSpellCaster\TelerikAlfaSpellCaster\bin\Debug\TelerikAlfaSpellCaster.exe.config
-D:\Projects\PracticeFilesDirectories\TelerikAlfaSpellCaster\TelerikAlfaSpellCaster\bin\Debug\TelerikAlfaSpellCaster.exe
-D:\Projects\PracticeFilesDirectories\TelerikAlfaSpellCaster\TelerikAlfaSpellCaster\bin\Debug\TelerikAlfaSpellCaster.pdb
-D:\Projects\PracticeFilesDirectories\TelerikAlfaSpellCaster\TelerikAlfaSpellCaster\obj\Debug\TelerikAlfaSpellCaster.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeFilesDirectories\TelerikAlfaSpellCaster\TelerikAlfaSpellCaster\obj\Debug\TelerikAlfaSpellCaster.exe
-D:\Projects\PracticeFilesDirectories\TelerikAlfaSpellCaster\TelerikAlfaSpellCaster\obj\Debug\TelerikAlfaSpellCaster.pdb

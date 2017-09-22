@@ -1,5 +1,0 @@
-D:\Projects\PracticeLogistic\PracticeLogistic\bin\Debug\PracticeLogistic.exe.config
-D:\Projects\PracticeLogistic\PracticeLogistic\bin\Debug\PracticeLogistic.exe
-D:\Projects\PracticeLogistic\PracticeLogistic\bin\Debug\PracticeLogistic.pdb
-D:\Projects\PracticeLogistic\PracticeLogistic\obj\Debug\PracticeLogistic.exe
-D:\Projects\PracticeLogistic\PracticeLogistic\obj\Debug\PracticeLogistic.pdb

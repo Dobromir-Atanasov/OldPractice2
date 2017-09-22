@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumbersWithAStack", "StacksAndQueues\ReverseNumbersWithAStack.csproj", "{ABC10759-1D8E-4371-A5C0-E1FC93C87DC6}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasiqQueueOperations", "BasiqQueueOperations\BasiqQueueOperations.csproj", "{19B2A700-B535-4D5B-A7B9-111C7A5F568E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSequenceWithQueue", "CalculateSequenceWithQueue\CalculateSequenceWithQueue.csproj", "{F08B787D-B1E9-4E8E-A25A-60CBAE7B656B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour", "TruckTour\TruckTour.csproj", "{9F1138DF-44CC-47E8-8C71-0E9415F087D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F08B787D-B1E9-4E8E-A25A-60CBAE7B656B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F08B787D-B1E9-4E8E-A25A-60CBAE7B656B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F08B787D-B1E9-4E8E-A25A-60CBAE7B656B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1138DF-44CC-47E8-8C71-0E9415F087D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1138DF-44CC-47E8-8C71-0E9415F087D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1138DF-44CC-47E8-8C71-0E9415F087D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1138DF-44CC-47E8-8C71-0E9415F087D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

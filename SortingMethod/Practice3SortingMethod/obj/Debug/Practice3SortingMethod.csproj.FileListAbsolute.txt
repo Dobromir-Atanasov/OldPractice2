@@ -1,6 +1,0 @@
-D:\Projects\Practice3SortingMethod\Practice3SortingMethod\bin\Debug\Practice3SortingMethod.exe.config
-D:\Projects\Practice3SortingMethod\Practice3SortingMethod\bin\Debug\Practice3SortingMethod.exe
-D:\Projects\Practice3SortingMethod\Practice3SortingMethod\bin\Debug\Practice3SortingMethod.pdb
-D:\Projects\Practice3SortingMethod\Practice3SortingMethod\obj\Debug\Practice3SortingMethod.csprojResolveAssemblyReference.cache
-D:\Projects\Practice3SortingMethod\Practice3SortingMethod\obj\Debug\Practice3SortingMethod.exe
-D:\Projects\Practice3SortingMethod\Practice3SortingMethod\obj\Debug\Practice3SortingMethod.pdb

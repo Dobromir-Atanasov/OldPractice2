@@ -1,6 +1,0 @@
-D:\Projects\PracticeGreaterOfTwoValues\PracticeGreaterOfTwoValues\bin\Debug\PracticeGreaterOfTwoValues.exe.config
-D:\Projects\PracticeGreaterOfTwoValues\PracticeGreaterOfTwoValues\bin\Debug\PracticeGreaterOfTwoValues.exe
-D:\Projects\PracticeGreaterOfTwoValues\PracticeGreaterOfTwoValues\bin\Debug\PracticeGreaterOfTwoValues.pdb
-D:\Projects\PracticeGreaterOfTwoValues\PracticeGreaterOfTwoValues\obj\Debug\PracticeGreaterOfTwoValues.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeGreaterOfTwoValues\PracticeGreaterOfTwoValues\obj\Debug\PracticeGreaterOfTwoValues.exe
-D:\Projects\PracticeGreaterOfTwoValues\PracticeGreaterOfTwoValues\obj\Debug\PracticeGreaterOfTwoValues.pdb

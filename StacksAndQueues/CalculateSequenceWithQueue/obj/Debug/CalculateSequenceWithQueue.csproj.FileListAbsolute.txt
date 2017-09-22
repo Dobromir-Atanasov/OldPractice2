@@ -4,3 +4,6 @@ D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\
 D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
 D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
 D:\Projects\PracticeFilesDirectories\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb
+F:\SoftUniPractice\StacksAndQueues\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+F:\SoftUniPractice\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+F:\SoftUniPractice\StacksAndQueues\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

@@ -1,6 +1,0 @@
-D:\Projects\EncodedAnsweer\EncodedAnsweer\bin\Debug\EncodedAnsweer.exe.config
-D:\Projects\EncodedAnsweer\EncodedAnsweer\bin\Debug\EncodedAnsweer.exe
-D:\Projects\EncodedAnsweer\EncodedAnsweer\bin\Debug\EncodedAnsweer.pdb
-D:\Projects\EncodedAnsweer\EncodedAnsweer\obj\Debug\EncodedAnsweer.csprojResolveAssemblyReference.cache
-D:\Projects\EncodedAnsweer\EncodedAnsweer\obj\Debug\EncodedAnsweer.exe
-D:\Projects\EncodedAnsweer\EncodedAnsweer\obj\Debug\EncodedAnsweer.pdb

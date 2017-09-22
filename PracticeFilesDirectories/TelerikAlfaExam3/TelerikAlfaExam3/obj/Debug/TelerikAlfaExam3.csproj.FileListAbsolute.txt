@@ -1,6 +1,0 @@
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam3\TelerikAlfaExam3\bin\Debug\TelerikAlfaExam3.exe.config
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam3\TelerikAlfaExam3\bin\Debug\TelerikAlfaExam3.exe
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam3\TelerikAlfaExam3\bin\Debug\TelerikAlfaExam3.pdb
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam3\TelerikAlfaExam3\obj\Debug\TelerikAlfaExam3.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam3\TelerikAlfaExam3\obj\Debug\TelerikAlfaExam3.exe
-D:\Projects\PracticeFilesDirectories\TelerikAlfaExam3\TelerikAlfaExam3\obj\Debug\TelerikAlfaExam3.pdb

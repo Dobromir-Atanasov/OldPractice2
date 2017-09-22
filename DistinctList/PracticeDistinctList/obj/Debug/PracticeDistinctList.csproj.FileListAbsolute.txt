@@ -1,6 +1,0 @@
-D:\Projects\PracticeDistinctList\PracticeDistinctList\bin\Debug\PracticeDistinctList.exe.config
-D:\Projects\PracticeDistinctList\PracticeDistinctList\bin\Debug\PracticeDistinctList.exe
-D:\Projects\PracticeDistinctList\PracticeDistinctList\bin\Debug\PracticeDistinctList.pdb
-D:\Projects\PracticeDistinctList\PracticeDistinctList\obj\Debug\PracticeDistinctList.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeDistinctList\PracticeDistinctList\obj\Debug\PracticeDistinctList.exe
-D:\Projects\PracticeDistinctList\PracticeDistinctList\obj\Debug\PracticeDistinctList.pdb

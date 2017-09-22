@@ -1,6 +1,0 @@
-D:\Projects\Practice.CountNumbers\Practice.CountNumbers\bin\Debug\Practice.CountNumbers.exe.config
-D:\Projects\Practice.CountNumbers\Practice.CountNumbers\bin\Debug\Practice.CountNumbers.exe
-D:\Projects\Practice.CountNumbers\Practice.CountNumbers\bin\Debug\Practice.CountNumbers.pdb
-D:\Projects\Practice.CountNumbers\Practice.CountNumbers\obj\Debug\Practice.CountNumbers.csprojResolveAssemblyReference.cache
-D:\Projects\Practice.CountNumbers\Practice.CountNumbers\obj\Debug\Practice.CountNumbers.exe
-D:\Projects\Practice.CountNumbers\Practice.CountNumbers\obj\Debug\Practice.CountNumbers.pdb

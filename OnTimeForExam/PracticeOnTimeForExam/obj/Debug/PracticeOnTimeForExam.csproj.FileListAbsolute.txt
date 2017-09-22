@@ -1,6 +1,0 @@
-D:\Projects\PracticeOnTimeForExam\PracticeOnTimeForExam\bin\Debug\PracticeOnTimeForExam.exe.config
-D:\Projects\PracticeOnTimeForExam\PracticeOnTimeForExam\bin\Debug\PracticeOnTimeForExam.exe
-D:\Projects\PracticeOnTimeForExam\PracticeOnTimeForExam\bin\Debug\PracticeOnTimeForExam.pdb
-D:\Projects\PracticeOnTimeForExam\PracticeOnTimeForExam\obj\Debug\PracticeOnTimeForExam.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeOnTimeForExam\PracticeOnTimeForExam\obj\Debug\PracticeOnTimeForExam.exe
-D:\Projects\PracticeOnTimeForExam\PracticeOnTimeForExam\obj\Debug\PracticeOnTimeForExam.pdb

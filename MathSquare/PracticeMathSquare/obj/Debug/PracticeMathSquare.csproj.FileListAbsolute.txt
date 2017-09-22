@@ -1,5 +1,0 @@
-D:\Projects\PracticeMathSquare\PracticeMathSquare\bin\Debug\PracticeMathSquare.exe.config
-D:\Projects\PracticeMathSquare\PracticeMathSquare\bin\Debug\PracticeMathSquare.exe
-D:\Projects\PracticeMathSquare\PracticeMathSquare\bin\Debug\PracticeMathSquare.pdb
-D:\Projects\PracticeMathSquare\PracticeMathSquare\obj\Debug\PracticeMathSquare.exe
-D:\Projects\PracticeMathSquare\PracticeMathSquare\obj\Debug\PracticeMathSquare.pdb

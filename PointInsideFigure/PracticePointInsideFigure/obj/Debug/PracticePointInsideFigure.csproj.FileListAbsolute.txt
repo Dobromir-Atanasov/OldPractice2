@@ -1,6 +1,0 @@
-D:\Projects\PracticePointInsideFigure\PracticePointInsideFigure\bin\Debug\PracticePointInsideFigure.exe.config
-D:\Projects\PracticePointInsideFigure\PracticePointInsideFigure\bin\Debug\PracticePointInsideFigure.exe
-D:\Projects\PracticePointInsideFigure\PracticePointInsideFigure\bin\Debug\PracticePointInsideFigure.pdb
-D:\Projects\PracticePointInsideFigure\PracticePointInsideFigure\obj\Debug\PracticePointInsideFigure.csprojResolveAssemblyReference.cache
-D:\Projects\PracticePointInsideFigure\PracticePointInsideFigure\obj\Debug\PracticePointInsideFigure.exe
-D:\Projects\PracticePointInsideFigure\PracticePointInsideFigure\obj\Debug\PracticePointInsideFigure.pdb

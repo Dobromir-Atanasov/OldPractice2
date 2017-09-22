@@ -1,6 +1,0 @@
-D:\Projects\practiceGroupName\practiceGroupName\bin\Debug\practiceGroupName.exe.config
-D:\Projects\practiceGroupName\practiceGroupName\bin\Debug\practiceGroupName.exe
-D:\Projects\practiceGroupName\practiceGroupName\bin\Debug\practiceGroupName.pdb
-D:\Projects\practiceGroupName\practiceGroupName\obj\Debug\practiceGroupName.csprojResolveAssemblyReference.cache
-D:\Projects\practiceGroupName\practiceGroupName\obj\Debug\practiceGroupName.exe
-D:\Projects\practiceGroupName\practiceGroupName\obj\Debug\practiceGroupName.pdb

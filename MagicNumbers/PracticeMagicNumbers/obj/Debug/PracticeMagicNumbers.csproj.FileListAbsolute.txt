@@ -1,5 +1,0 @@
-D:\Projects\PracticeMagicNumbers\PracticeMagicNumbers\bin\Debug\PracticeMagicNumbers.exe.config
-D:\Projects\PracticeMagicNumbers\PracticeMagicNumbers\bin\Debug\PracticeMagicNumbers.exe
-D:\Projects\PracticeMagicNumbers\PracticeMagicNumbers\bin\Debug\PracticeMagicNumbers.pdb
-D:\Projects\PracticeMagicNumbers\PracticeMagicNumbers\obj\Debug\PracticeMagicNumbers.exe
-D:\Projects\PracticeMagicNumbers\PracticeMagicNumbers\obj\Debug\PracticeMagicNumbers.pdb

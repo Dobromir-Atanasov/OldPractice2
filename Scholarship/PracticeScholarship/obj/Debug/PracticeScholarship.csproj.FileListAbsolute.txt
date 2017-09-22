@@ -1,6 +1,0 @@
-D:\Projects\PracticeScholarship\PracticeScholarship\bin\Debug\PracticeScholarship.exe.config
-D:\Projects\PracticeScholarship\PracticeScholarship\bin\Debug\PracticeScholarship.exe
-D:\Projects\PracticeScholarship\PracticeScholarship\bin\Debug\PracticeScholarship.pdb
-D:\Projects\PracticeScholarship\PracticeScholarship\obj\Debug\PracticeScholarship.csprojResolveAssemblyReference.cache
-D:\Projects\PracticeScholarship\PracticeScholarship\obj\Debug\PracticeScholarship.exe
-D:\Projects\PracticeScholarship\PracticeScholarship\obj\Debug\PracticeScholarship.pdb
