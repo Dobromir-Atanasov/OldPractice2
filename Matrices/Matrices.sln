@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubixsMatrix", "RubixsMatrix\RubixsMatrix.csproj", "{77B19DBF-7707-457D-B0BE-F975144C1FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetPractice", "TargetPractice\TargetPractice.csproj", "{A8CAD191-FD8E-43A9-BC96-C1E4E5483B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoBlocks", "LegoBlocks\LegoBlocks.csproj", "{419794EA-C4B7-4586-93FD-B8B5DA56794B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveBunnies", "RadioactiveBunnies\RadioactiveBunnies.csproj", "{3C32F233-D83F-4972-AD3C-CC0709D10523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{77B19DBF-7707-457D-B0BE-F975144C1FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B19DBF-7707-457D-B0BE-F975144C1FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B19DBF-7707-457D-B0BE-F975144C1FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CAD191-FD8E-43A9-BC96-C1E4E5483B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CAD191-FD8E-43A9-BC96-C1E4E5483B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CAD191-FD8E-43A9-BC96-C1E4E5483B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CAD191-FD8E-43A9-BC96-C1E4E5483B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419794EA-C4B7-4586-93FD-B8B5DA56794B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419794EA-C4B7-4586-93FD-B8B5DA56794B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419794EA-C4B7-4586-93FD-B8B5DA56794B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419794EA-C4B7-4586-93FD-B8B5DA56794B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C32F233-D83F-4972-AD3C-CC0709D10523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C32F233-D83F-4972-AD3C-CC0709D10523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C32F233-D83F-4972-AD3C-CC0709D10523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C32F233-D83F-4972-AD3C-CC0709D10523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

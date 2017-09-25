@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A8CAD191-FD8E-43A9-BC96-C1E4E5483B31}</ProjectGuid>
+    <ProjectGuid>{419794EA-C4B7-4586-93FD-B8B5DA56794B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TargetPractice</RootNamespace>
-    <AssemblyName>TargetPractice</AssemblyName>
+    <RootNamespace>LegoBlocks</RootNamespace>
+    <AssemblyName>LegoBlocks</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TargetPractice.cs" />
+    <Compile Include="LegoBlocks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
