@@ -4,9 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// so far 50/100
-// I  need to find a way to replace existing dragons, isntead of adding them
-
 namespace DragonArmy
 {
     class DragonArmy
@@ -48,7 +45,7 @@ namespace DragonArmy
                 avHealth /= numberOfDragonsOfThatType;
                 avArmor /= numberOfDragonsOfThatType;
                 Console.WriteLine("{0}::({1:f2}/{2:f2}/{3:f2})", dragonType, avDmg, avHealth, avArmor);
-                foreach (var dragon in item.Value.OrderBy(x=>x.Name))
+                foreach (var dragon in item.Value.OrderBy(x => x.Name))
                 {
                     Console.WriteLine("-{0} -> damage: {1}, health: {2}, armor: {3}", dragon.Name, dragon.Damage, dragon.Health, dragon.Armor);
                 }
@@ -62,7 +59,7 @@ namespace DragonArmy
             string dragonType = tokenInput[0];
             Dragon currentDragon = new Dragon();
             currentDragon.Name = tokenInput[1];
-            if (tokenInput[2]=="null")
+            if (tokenInput[2] == "null")
             {
                 currentDragon.Damage = 45;
             }
@@ -78,7 +75,7 @@ namespace DragonArmy
             {
                 currentDragon.Health = int.Parse(tokenInput[3]);
             }
-            if (tokenInput[4] =="null")
+            if (tokenInput[4] == "null")
             {
                 currentDragon.Armor = 10;
             }
@@ -89,11 +86,23 @@ namespace DragonArmy
             if (!dragonNest.ContainsKey(dragonType))
             {
                 dragonNest.Add(dragonType, new List<Dragon>());
-                dragonNest[dragonType].Add(currentDragon);  //HOW TO REPLACE EXISTING DRAGON NAME?
+                dragonNest[dragonType].Add(currentDragon);
             }
             else
             {
-                dragonNest[dragonType].Add(currentDragon);
+                bool isUnique = true;
+                for (int i = 0; i < dragonNest[dragonType].Count; i++)
+                {
+                    if (dragonNest[dragonType][i].Name == currentDragon.Name)
+                    {
+                        dragonNest[dragonType][i] = currentDragon;
+                        isUnique = false;
+                    }
+                }
+                if (isUnique)
+                {
+                    dragonNest[dragonType].Add(currentDragon);
+                }
             }
         }
     }
