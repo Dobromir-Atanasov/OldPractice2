@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tres4", "CSharpPart2-2013-2014-22Jan2014Evening\Tres4.csproj", "{B5717530-F639-476D-B9E4-F24930A645F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunnyFactory", "BunnyFactory\BunnyFactory.csproj", "{C6FF48EC-5832-4AB2-B7CC-D308A2268D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns", "Patterns\Patterns.csproj", "{0C300E29-3556-4F0A-A8BE-71FEF2D6193D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5717530-F639-476D-B9E4-F24930A645F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5717530-F639-476D-B9E4-F24930A645F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5717530-F639-476D-B9E4-F24930A645F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5717530-F639-476D-B9E4-F24930A645F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FF48EC-5832-4AB2-B7CC-D308A2268D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FF48EC-5832-4AB2-B7CC-D308A2268D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FF48EC-5832-4AB2-B7CC-D308A2268D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FF48EC-5832-4AB2-B7CC-D308A2268D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C300E29-3556-4F0A-A8BE-71FEF2D6193D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C300E29-3556-4F0A-A8BE-71FEF2D6193D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C300E29-3556-4F0A-A8BE-71FEF2D6193D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C300E29-3556-4F0A-A8BE-71FEF2D6193D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
